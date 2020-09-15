@@ -1,0 +1,28 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65%;
+}
+
+body {
+    font-size: 1.0rem;
+}
+
+body, html {
+    font-family: sans-serif;
+    height: 100%;
+    background: #Fff;
+}
+
+.form-group {
+    margin: 40px 0;
+}
+
+    .form-group input,
+    .form-group select {
+        font-size: 2rem;
+    }
